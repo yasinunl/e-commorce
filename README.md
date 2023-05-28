@@ -19,7 +19,7 @@ Make sure to run npm install to install the package.
 npm run android
 ```
 ## Some Photos
-1. First Screenshot: ![first](./assets/7Capture.JPG)
-1. Second Screenshot: ![second](./assets/2Capture.JPG)
-1. Third Screenshot: ![third](./assets/1Capture.JPG)
+1. ![first](./assets/7Capture.JPG)
+1. ![second](./assets/2Capture.JPG)
+1. ![third](./assets/1Capture.JPG)
 
